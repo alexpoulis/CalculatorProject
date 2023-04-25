@@ -1,0 +1,2 @@
+# README
+Simple Calculator project
